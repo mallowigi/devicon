@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 mallowigi/devicon is built on the following main stack:
+
 - [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - [Python](https://www.python.org) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -9,11 +10,13 @@ mallowigi/devicon is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 mallowigi/devicon is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -21,14 +24,15 @@ mallowigi/devicon is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mallowigi/devicon](https://github.com/mallowigi/devicon)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|15<br/>Tools used|11/19/23 <br/>Report generated|
+|15<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -144,7 +148,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[requests](https://pypi.org/requests)|v2.25.1|04/29/21|Thomas Bui |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[requests](https://pypi.org/project/requests)|v2.25.1|04/29/21|Thomas Bui |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
 
 <br/>
 <div align='center'>
